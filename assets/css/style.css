@@ -435,7 +435,7 @@ section {
 }
 
 .section-title p {
-  margin-bottom: 0;
+  margin-bottom: 10px;
 }
 
 @media (max-width: 768px) {
@@ -596,6 +596,22 @@ section {
 
   .content {
     padding: 20px;
+  }
+
+  .about .content .count-box i {
+    font-size: 25px;
+  }
+
+  .about .content .count-box h4 {
+    font-size: large;
+  }
+
+  .about .content .count-box p {
+    font-size: 16px;
+  }
+
+  .infos {
+    font-size: 16px;
   }
 }
 
